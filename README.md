@@ -1,7 +1,7 @@
 # hello-world
 first test
 
-[chapter](#https://github.com/siver16/hello-world/blob/master/README.md#somechapter)
+[chapter](https://github.com/siver16/hello-world/blob/master/README.md#somechapter)
 
 
 
